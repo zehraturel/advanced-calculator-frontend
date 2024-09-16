@@ -1,0 +1,21 @@
+.input-wrapper{
+    height: 8em;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 16px;
+}
+.result{
+    flex: 1;
+    font-size: 30px;
+    margin-top: -66px;
+    margin-bottom: -30px;
+    color: #6C5B7B;
+    ;
+    
+}
+.text{
+    flex: 1;
+    font-size: 28px;
+    color: #6C5B7B;
+}
